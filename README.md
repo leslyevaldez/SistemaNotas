@@ -49,7 +49,7 @@ Diseño y Desarrollo de aplicaciones
 
 Instituto Politécnico Pedro Feliciano Martínez
 
-##Imagenes 
+## Imagenes 
 <img width="1088" height="607" alt="image" src="https://github.com/user-attachments/assets/650990c0-4c08-4142-93fd-263de193523a" />
 <img width="822" height="391" alt="image" src="https://github.com/user-attachments/assets/528a9cae-0d36-4c51-896b-e932d741e4bf" />
 <img width="748" height="415" alt="image" src="https://github.com/user-attachments/assets/6fac4e87-6066-4201-86a6-f8437d32067f" />
